@@ -4,11 +4,9 @@ title: About Us
 permalink: /about/
 ---
 
-Some information about you!
+We are a Christian family of four who decided to share our journey with others in hopes to encourage those who are in the midst of their own storm to not give up.
 
 ### More About Us
-
-We are a Christian family of four who decided to share our journey with others in hopes to encourage those who are in the midst of their own storm to not give up.
 
 Mike is a pastor of a church based out of California he works to provide for his family and is currently in stage 5 kidney failure on dailysis in need of a kidney. 
 
