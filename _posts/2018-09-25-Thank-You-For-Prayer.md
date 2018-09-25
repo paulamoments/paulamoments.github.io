@@ -1,6 +1,6 @@
----
-published: true
----
+![Mike in the hospital](https://raw.githubusercontent.com/paulamoments/paulamoments.github.io/master/images/mike_in_hospital.jpg "Mike in the hospital")
+
+###Thank You...
 Hi guys! 
 
 If you are reading this I just wanted to thank you all for your prayers and encouragement. The love we continue to receive from strangers is unbelievable and we cannot thank you enough for praying for our family. 
