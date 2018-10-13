@@ -1,5 +1,6 @@
 ---
 published: false
+publish: null
 ---
 Normally I wouldn't address this, and if you know me than you know I am usually quiet and ignore such things. Because we have gained some attention I felt the need to elaborate about my intentions on sharing our journey. My husband was unfortunately brought in by ambulance today, and as I sit and wait to find out results I am reading through comments and messages for encouragement, feeling overwhelmed at the moment. 
 
